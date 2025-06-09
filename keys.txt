@@ -1,0 +1,2 @@
+API_KEY = "AIzaSyD519E62SdcuC8IstbRijgE7q_kUoMqBsU"
+CSE_ID = "4415af1f7d77e4cc2"
